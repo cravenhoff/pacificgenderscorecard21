@@ -8,6 +8,6 @@ This repository will collect the research findings, associated notes, and any ne
 The types of research data that will be collected will be from primary and secondary data sources via interviews, surveys and questionnaires, and standard desktop research reviews. In addition, a mixture of both qualitative and quantitivate data will also be collected.
 
 #
-Maintained by Crystal Kewe.
+Maintained by Crystal Kewe 👩‍💻 
 
 Crystal is consultant to the PNG Digital ICT Cluster and contributing research author for the Pacific Gender Scorecard Audit Project in Papua New Guinea.
